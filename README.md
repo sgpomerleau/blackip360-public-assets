@@ -21,3 +21,13 @@ Exemple — logo (version blanche, pour fonds sombres) :
 ```
 https://raw.githubusercontent.com/sgpomerleau/blackip360-public-assets/main/logo/bip360-blanc.png
 ```
+
+## Contenu
+
+- `logo/bip360-blanc.png` — logo Black IP 360, version blanche (pour fonds sombres).
+- `badges/autotask-certified-admin.png` — Datto | Autotask PSA, Certified Administrator.
+- `badges/dattormm-certified-admin.png` — Datto RMM, Certified Administrator.
+- `badges/veeam-vmtsp-cloud-service-provider-2024.png` — Veeam VMTSP Cloud Service Provider 2024.
+- `badges/watchguard-identity-security.png` — WatchGuard Certified, Identity Security.
+
+Utilisation prévue : signatures Outlook des techniciens, courriels internes.
