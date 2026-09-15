@@ -29,5 +29,8 @@ https://raw.githubusercontent.com/sgpomerleau/blackip360-public-assets/main/logo
 - `badges/dattormm-certified-admin.png` — Datto RMM, Certified Administrator.
 - `badges/veeam-vmtsp-cloud-service-provider-2024.png` — Veeam VMTSP Cloud Service Provider 2024.
 - `badges/watchguard-identity-security.png` — WatchGuard Certified, Identity Security.
+- `icons/email.png` — icône courriel (@), pour barre de contact en signature.
+- `icons/telephone.png` — icône téléphone, pour barre de contact en signature.
+- `icons/web.png` — icône site web (globe), pour barre de contact en signature.
 
 Utilisation prévue : signatures Outlook des techniciens, courriels internes.
